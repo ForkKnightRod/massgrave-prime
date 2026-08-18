@@ -41,4 +41,4 @@ Yes — it's free to download and use.
 3. **Silent Mode:** Command-line activation without GUI for scripted deployments.
 
 ## ⚠️ Disclaimer
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor. 
